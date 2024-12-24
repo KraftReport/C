@@ -9,10 +9,15 @@ void main(){
     char d = getchar();
     char e = getchar();
 
-    putchar(e); 
-    putchar(d); 
-    putchar(c); 
-    putchar(b); 
-    putchar(a); 
+    putchar(e);
+    putchar('\n');
+    putchar(d);
+    putchar('\n');
+    putchar(c);
+    putchar('\n');
+    putchar(b);
+    putchar('\n');
+    putchar(a);
+    putchar('\n'); 
  
 }
